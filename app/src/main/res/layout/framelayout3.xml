@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:id="@+id/mainlayout"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <!--Red square-->
+    <View
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:background="#DC143C" />
+    <View
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:background="#FF8C00"/>
+
+</FrameLayout>
